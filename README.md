@@ -15,3 +15,5 @@
   To evaluate the results (if you have ground truth), run
       
       python evaluate.py --gt_dir <path/of/ground/truth> --pred_dir <path/of/pred/results> --clf False
+      
+  We have our pretrained model in folder `checkpoints`. The results of prediction on test dataset are in `pred.zip`.
